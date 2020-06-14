@@ -1,1 +1,5 @@
 this is my first text
+
+Adding some more content to this file.
+
+This reminds me a lot of unix commands - very cool!
